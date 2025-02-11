@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Login/My Formations Admin - Login/Login Button",
+      "brokenLocator": "//button[@id\u003d\u0027_com_liferay_login_web_portlet_LoginPortlet_oyrx\u0027]/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Caps Lock is on.\u0027])[1]/following::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Login/My Formations Admin - Login/Login Button_neighbor.png"
+    }
+  ]
+}
